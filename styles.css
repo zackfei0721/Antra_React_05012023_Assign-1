@@ -80,8 +80,6 @@ label {
     margin-left: 10px;
 }
 #registerSpan {
-    display: inline-block;
-    vertical-align: middle;
     background-color: skyblue;
     width: 70x;
     padding: 2px 4px;
